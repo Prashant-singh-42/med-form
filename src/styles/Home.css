@@ -1,0 +1,24 @@
+.container-m {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 10px;
+
+    width: 300px;
+    border: 2px solid rgb(187, 0, 255);
+    border-radius: 5px;
+}
+
+.item {
+    width: 90%;
+
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+Button {
+    width: 100%;
+    height: 50px;
+}

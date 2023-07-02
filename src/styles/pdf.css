@@ -1,0 +1,17 @@
+.Container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 5rem;
+}
+
+.pdf-Con {
+    height: 80vh;
+    width: 100%;
+}
+
+.testt {
+    color: #ff003361;
+    /* height: fi; */
+}
